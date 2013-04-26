@@ -1,10 +1,10 @@
-# medea
+# Medea
 
 A simple tool to prep HTML files to coversion to JSON strings.
 
 ## Getting Started
 Right now, this isn't available for release on NPM.
-`git clone` medea somewhere. Then 'npm link'
+`git clone` medea somewhere. Then `npm link`
 You might have to mess with your $PATH...
 
 ## Documentation
