@@ -1,7 +1,7 @@
 {
   "name": "medea",
   "description": "A simple tool to prep HTML files to coversion to JSON strings.",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "homepage": "https://github.com/johnwest/medea",
   "author": {
     "name": "John West",
